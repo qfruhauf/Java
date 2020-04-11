@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="449afe9f-8a75-4b14-8b90-9fa95bb133e9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="HyperSkill" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X9O0YJZbPzjfteOIRQmuTZcFaa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.demo.mypackage.Main" />
+      <module name="HyperSkill" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="449afe9f-8a75-4b14-8b90-9fa95bb133e9" name="Default Changelist" comment="" />
+      <created>1580454620423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580454620423</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4392" y="1244" key="#Project_Structure" timestamp="1580455018269">
+      <screen x="3840" y="1065" width="1920" height="1040" />
+    </state>
+    <state x="4392" y="1244" key="#Project_Structure/0.0.3072.1688/3840.1065.1920.1040@3840.1065.1920.1040" timestamp="1580455018269" />
+    <state x="4559" y="1389" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580454986270">
+      <screen x="3840" y="1065" width="1920" height="1040" />
+    </state>
+    <state x="4559" y="1389" key="#com.intellij.fileTypes.FileTypeChooser/0.0.3072.1688/3840.1065.1920.1040@3840.1065.1920.1040" timestamp="1580454986270" />
+    <state x="4301" y="1228" key="SettingsEditor" timestamp="1580977670706">
+      <screen x="3840" y="1065" width="1920" height="1040" />
+    </state>
+    <state x="4301" y="1228" key="SettingsEditor/0.0.3072.1688/3840.1065.1920.1040@3840.1065.1920.1040" timestamp="1580977670706" />
+    <state x="4496" y="1410" key="com.intellij.ide.util.TipDialog" timestamp="1580977823403">
+      <screen x="3840" y="1065" width="1920" height="1040" />
+    </state>
+    <state x="4496" y="1410" key="com.intellij.ide.util.TipDialog/0.0.3072.1688/3840.1065.1920.1040@3840.1065.1920.1040" timestamp="1580977823403" />
+  </component>
+</project>
