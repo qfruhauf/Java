@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56480080-8363-4d50-8ba5-eaa843eb28dd" name="Default Changelist" comment="" />
+    <list default="true" id="56480080-8363-4d50-8ba5-eaa843eb28dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/creationalpattern/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/creationalpattern/SingletonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/creationalpattern/SingletonExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/creationalpattern/SingletonLazilyLoaded.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/creationalpattern/SingletonThreadSafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithread/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithread/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithread/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithread/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithread/Multithread.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithread/src/main/java/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithread/src/main/java/AdderPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithread/src/main/java/AdderThreadReturnResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExampleOOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExampleOOP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HttpClient/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HttpClient/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/org/demo/mypackage/BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/org/demo/mypackage/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/org/demo/mypackage/MyFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/org/demo/mypackage/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/demo/mypackage/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/demo/mypackage/MyFunction.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,19 +35,27 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ZUjTlFYnZJbfyxgYBLQow55G5E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/AlgorithmsI" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SingletonDemo">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="org.demo.mypackage.Main" />
       <module name="Main" />
@@ -34,8 +66,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SingletonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.creationalpattern.SingletonDemo" />
+      <module name="Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.creationalpattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingletonDemo" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -72,26 +118,26 @@
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state x="1317" y="600" key="FileChooserDialogImpl/0.0.3072.1688/3840.1065.1920.1040@0.0.3072.1688" timestamp="1585808187459" />
-    <state width="3051" height="495" key="GridCell.Tab.0.bottom" timestamp="1585206217039">
-      <screen x="0" y="0" width="3072" height="1688" />
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1586742741248">
+      <screen x="3840" y="1065" width="1920" height="1040" />
     </state>
     <state width="3051" height="495" key="GridCell.Tab.0.bottom/0.0.3072.1688/3840.1065.1920.1040@0.0.3072.1688" timestamp="1585206217039" />
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.3072.1688/3840.1065.1920.1040@3840.1065.1920.1040" timestamp="1584948098826" />
-    <state width="3051" height="495" key="GridCell.Tab.0.center" timestamp="1585206217039">
-      <screen x="0" y="0" width="3072" height="1688" />
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.3072.1688/3840.1065.1920.1040@3840.1065.1920.1040" timestamp="1586742741248" />
+    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1586742741248">
+      <screen x="3840" y="1065" width="1920" height="1040" />
     </state>
     <state width="3051" height="495" key="GridCell.Tab.0.center/0.0.3072.1688/3840.1065.1920.1040@0.0.3072.1688" timestamp="1585206217039" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.3072.1688/3840.1065.1920.1040@3840.1065.1920.1040" timestamp="1584948098825" />
-    <state width="3051" height="495" key="GridCell.Tab.0.left" timestamp="1585206217039">
-      <screen x="0" y="0" width="3072" height="1688" />
+    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.3072.1688/3840.1065.1920.1040@3840.1065.1920.1040" timestamp="1586742741248" />
+    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1586742741248">
+      <screen x="3840" y="1065" width="1920" height="1040" />
     </state>
     <state width="3051" height="495" key="GridCell.Tab.0.left/0.0.3072.1688/3840.1065.1920.1040@0.0.3072.1688" timestamp="1585206217039" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.3072.1688/3840.1065.1920.1040@3840.1065.1920.1040" timestamp="1584948098825" />
-    <state width="3051" height="495" key="GridCell.Tab.0.right" timestamp="1585206217039">
-      <screen x="0" y="0" width="3072" height="1688" />
+    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.3072.1688/3840.1065.1920.1040@3840.1065.1920.1040" timestamp="1586742741248" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1586742741248">
+      <screen x="3840" y="1065" width="1920" height="1040" />
     </state>
     <state width="3051" height="495" key="GridCell.Tab.0.right/0.0.3072.1688/3840.1065.1920.1040@0.0.3072.1688" timestamp="1585206217039" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.3072.1688/3840.1065.1920.1040@3840.1065.1920.1040" timestamp="1584948098825" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.3072.1688/3840.1065.1920.1040@3840.1065.1920.1040" timestamp="1586742741248" />
     <state width="3051" height="376" key="GridCell.Tab.1.bottom" timestamp="1585206217036">
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
@@ -108,25 +154,18 @@
       <screen x="0" y="0" width="3072" height="1688" />
     </state>
     <state width="3051" height="376" key="GridCell.Tab.1.right/0.0.3072.1688/3840.1065.1920.1040@0.0.3072.1688" timestamp="1585206217036" />
-    <state x="1050" y="560" key="com.intellij.ide.util.TipDialog" timestamp="1585807922629">
-      <screen x="0" y="0" width="3072" height="1688" />
+    <state x="4496" y="1410" key="com.intellij.ide.util.TipDialog" timestamp="1586835531456">
+      <screen x="3840" y="1065" width="1920" height="1040" />
     </state>
     <state x="1050" y="560" key="com.intellij.ide.util.TipDialog/0.0.3072.1688/3840.1065.1920.1040@0.0.3072.1688" timestamp="1585807922629" />
-    <state x="4496" y="1410" key="com.intellij.ide.util.TipDialog/0.0.3072.1688/3840.1065.1920.1040@3840.1065.1920.1040" timestamp="1585181328248" />
+    <state x="4496" y="1410" key="com.intellij.ide.util.TipDialog/0.0.3072.1688/3840.1065.1920.1040@3840.1065.1920.1040" timestamp="1586835531456" />
+    <state x="4182" y="1281" key="new project wizard" timestamp="1586836805134">
+      <screen x="3840" y="1065" width="1920" height="1040" />
+    </state>
+    <state x="4182" y="1281" key="new project wizard/0.0.3072.1688/3840.1065.1920.1040@3840.1065.1920.1040" timestamp="1586836805134" />
     <state x="4463" y="1290" width="672" height="678" key="search.everywhere.popup" timestamp="1584915954218">
       <screen x="3840" y="1065" width="1920" height="1040" />
     </state>
     <state x="4463" y="1290" width="672" height="678" key="search.everywhere.popup/0.0.3072.1688/3840.1065.1920.1040@3840.1065.1920.1040" timestamp="1584915954218" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/org/demo/mypackage/Main.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

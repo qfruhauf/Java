@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +25,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1aIHB1Ly2UeBnNuuvAPKwzdkzyE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ExampleOOP" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,5 +44,15 @@
       <updated>1586416048288</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4580" y="1341" key="FileChooserDialogImpl" timestamp="1586721205132">
+      <screen x="3840" y="1065" width="1920" height="1040" />
+    </state>
+    <state x="4580" y="1341" key="FileChooserDialogImpl/0.0.3072.1688/3840.1065.1920.1040@3840.1065.1920.1040" timestamp="1586721205132" />
+    <state x="4496" y="1410" key="com.intellij.ide.util.TipDialog" timestamp="1586710419427">
+      <screen x="3840" y="1065" width="1920" height="1040" />
+    </state>
+    <state x="4496" y="1410" key="com.intellij.ide.util.TipDialog/0.0.3072.1688/3840.1065.1920.1040@3840.1065.1920.1040" timestamp="1586710419427" />
   </component>
 </project>
